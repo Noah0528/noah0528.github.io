@@ -1,0 +1,33 @@
+I"<p>介紹我個人擅長使用的開發方式與工具</p>
+
+<h2 id="工作事蹟">工作事蹟</h2>
+<ul>
+  <li>1.開發企業內部網站 Portal (加班/人事出勤簽核系統 ) ,電子發票系統 ，MES製造系統。</li>
+  <li>2.開發Android App專案維護，使用Android Studio Java + Web Api</li>
+  <li>3.自建Git 內部伺服，Gitea版控系統維護</li>
+  <li>4.企業sso單一登入設計，兩階段登入</li>
+  <li>5，三竹簡訊系統api串接。</li>
+  <li>6，企業官網api設計與開發。</li>
+  <li>7，財政部電子發票api串接，發票處理作業。</li>
+</ul>
+
+<p>使用工具Visual Stdio 2019,Visual Studio Code,IIS, ssms
+javascript,jQuery,Vue,.Net Framework,.Net core,Mssql,Mysql
+工作事蹟:
+企業內部portal系統開發(前後端開發)，
+企業內部MES系統開發(前後端開發)，
+企業內部Android App系統開發，
+企業內部問卷系統系統開發(前後端開發)，
+Googl表單卷Api串接與開發，
+企業官網API開發，</p>
+
+<h2 id="接案經歷">接案經歷：</h2>
+<p>桃園市籃球委員會(後端開發):
+<a href="http://www.tyba.tw/">http://www.tyba.tw/</a></p>
+
+<p>工業節能服務網(後端開發):
+<a href="https://emis.itri.org.tw/">https://emis.itri.org.tw/</a></p>
+
+<p>懷特博白板WTB(後端開發):
+<a href="https://www.wtbtw.com.tw/?gclid=Cj0KCQjw6s2IBhCnARIsAP8RfAjq8LjAofQHp-lt1BUjpuZdh6qxkK6xI4hKDn3ly1yZEK17IeD9yusaAmPmEALw_wcB">https://www.wtbtw.com.tw/?gclid=Cj0KCQjw6s2IBhCnARIsAP8RfAjq8LjAofQHp-lt1BUjpuZdh6qxkK6xI4hKDn3ly1yZEK17IeD9yusaAmPmEALw_wcB</a></p>
+:ET

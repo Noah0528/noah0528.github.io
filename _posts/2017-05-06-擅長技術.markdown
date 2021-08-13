@@ -1,0 +1,36 @@
+---
+layout: post
+title: 個人介紹
+date: 2021-08-10 13:32:20 +0300
+description:  # Add post description (optional)
+img: i-rest.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Holidays, Hawaii]
+type : release
+---
+
+## 使用工具
+---
+Visual Stdio 2019,Visual Studio Code,IIS, ssms
+javascript,jQuery,Vue,.Net Framework,.Net core,Mssql,Mysql
+
+## 工作事蹟
+---
+* 企業內部portal系統開發(前後端開發)，
+* 企業內部MES製造系統(前後端開發)，
+* 企業內部MES系統開發(前後端開發)，
+* 企業內部Android App系統開發，
+* 企業內部問卷系統系統開發(前後端開發)，
+* Googl表單卷Api串接與開發，
+* 企業官網API開發，
+
+## 接案經歷：
+---
+桃園市籃球委員會(後端開發):  
+<http://www.tyba.tw/>
+
+工業節能服務網(後端開發):  
+<https://emis.itri.org.tw/>
+
+懷特博白板WTB(後端開發):  
+<https://www.wtbtw.com.tw/?gclid=Cj0KCQjw6s2IBhCnARIsAP8RfAjq8LjAofQHp-lt1BUjpuZdh6qxkK6xI4hKDn3ly1yZEK17IeD9yusaAmPmEALw_wcB>
