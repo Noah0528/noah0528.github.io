@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 個人介紹
-date: 2021-08-10 13:32:20 +0300
+date: 2021-08-10 13:32:20 +0800
 description: 擔任某公司企業的MIS 主要寫code兼雜工兼SA兼SD兼PG兼....哩哩摳摳 # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
