@@ -1,4 +1,5 @@
-I"6<p>自從踏入網頁開發領域之後，一直想找個順手又好寫的開發模式(方式)，從 Web Form 接觸到 MVC5，一直到現在的.net core 框架以及前端框架 vue。</p>
+I"�
+<p>自從踏入網頁開發領域之後，一直想找個順手又好寫的開發模式(方式)，從 Web Form 接觸到 MVC5，一直到現在的.net core 框架以及前端框架 vue。</p>
 
 <p>後端由於是學.net 出身，所以到現在還是擁抱微軟，曾試著要摸 php，但始終製造不出實做機會。</p>
 
@@ -32,4 +33,14 @@ OpenCV 是由英特爾公司發起並參與開發為開源軟體。具有相當�
   <li>圖像分割</li>
   <li>機器人</li>
 </ul>
+
+<h4 id="python-環境建置">python 環境建置</h4>
+<p>Google大多以python範例居多，好吧，就來學學python。<br />
+首先，參考<a href="https://blog.techbridge.cc/2018/04/14/how-to-setup-python-development-environment-in-windows/#jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/" target="_blank">如何在 Windows 打造 Python 開發環境設定基礎入門教學</a>在windows環境中安裝python開發環境。建立第一支Hello World 的python。</p>
+
+<h4 id="python-起手式">python 起手式</h4>
+<p><a href="https://ithelp.ithome.com.tw/articles/10199801" target="\_blank">python 起手式：總是要有control flow！</a></p>
+
+<h4 id="python-連線mssql">python 連線mssql</h4>
+<p><a href="https://medium.com/@acer1832a/%E4%BD%BF%E7%94%A8-pymssql-%E9%80%A3%E6%8E%A5-ms-sql-server-9bcb6cd0c92c" target="\_blank">使用 pymssql 連接 MS SQL Server</a></p>
 :ET

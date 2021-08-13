@@ -40,3 +40,13 @@ OpenCV 是由英特爾公司發起並參與開發為開源軟體。具有相當�
 * 物體辨識
 * 圖像分割
 * 機器人
+
+#### python 環境建置
+Google大多以python範例居多，好吧，就來學學python。  
+首先，參考[如何在 Windows 打造 Python 開發環境設定基礎入門教學](https://blog.techbridge.cc/2018/04/14/how-to-setup-python-development-environment-in-windows/#jeffjade.com/2016/01/13/2016-01-13-windows-software-cmder/){:target="_blank"}在windows環境中安裝python開發環境。建立第一支Hello World 的python。
+
+#### python 起手式
+[python 起手式：總是要有control flow！](https://ithelp.ithome.com.tw/articles/10199801){:target="\_blank"}
+
+#### python 連線mssql
+[使用 pymssql 連接 MS SQL Server](https://medium.com/@acer1832a/%E4%BD%BF%E7%94%A8-pymssql-%E9%80%A3%E6%8E%A5-ms-sql-server-9bcb6cd0c92c){:target="\_blank"}
